@@ -31,7 +31,7 @@
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/perplexity-inspired-llm-answer-engine.git
+    git clone https://github.com/Jaimboh/perplexity-llm-answer-engine.git
     ```
 2. Install the required dependencies:
     ```
